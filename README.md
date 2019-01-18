@@ -1,2 +1,2 @@
 # hello-world
-my thangy thang
+My first repository
